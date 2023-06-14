@@ -6,9 +6,7 @@ Ta aplikacja to magiczny kreator pixel artu! Wczytaj swoje zdjęcie, a potem  do
 
 ![Image](examples/gui.png)
 
-###### Autorzy:
-- _Jakub Stolarczyk_
-- _Filip Rzepka_
+###### Autorzy: _Jakub Stolarczyk & Filip Rzepka_
 
 ---
 ## 📋 Spis treści
