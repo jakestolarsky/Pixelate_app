@@ -77,4 +77,4 @@ Poniżej znajdują się przykłady pokazujące efekty, jakie możesz osiągnąć
 ---
 ## ⚙️ Technologia
 
-Aplikacja została sworzona w języku `Pyhon`, a głównym silnikiem napędowym, na którym się opiera, jest biblioteka *[Pyxelate](https://github.com/sedthh/pyxelate#readme)*. Interface graficzny został stworzony za pomocą biblioteki *[Kivy](https://kivy.org/)*. Przkładowe obrazazki zostały wygenerowane za pomocą narzędzia *[Leonardo.ai](https://leonardo.ai/)*
+Aplikacja została sworzona w języku `Pyhon`, a głównym silnikiem napędowym, na którym się opiera, jest biblioteka *[Pyxelate](https://github.com/sedthh/pyxelate#readme)*. Interface graficzny został stworzony za pomocą biblioteki *[Kivy](https://kivy.org/)*. Przkładowe obrazki zostały wygenerowane za pomocą narzędzia *[Leonardo.ai](https://leonardo.ai/)*
