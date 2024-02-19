@@ -3,15 +3,12 @@
 
 This application is a magical wizard of Pixel Art! Load your photo and then get the `Factor` slider, determining the size of the pixels in your pixel art. You can also choose the `Dithering` method, which is a bit like choosing a fries sauce - everyone has a different taste, and different methods will give different effects. After setting everything according to your taste, press 'Pyxlate Image' and wait for the magic to happen. Finally, you can save your masterpiece to the hard disk. This tool is like traveling in time to the 8-bit graphics era!
 
-Author: _Jakub Stolarczyk_
-
 ![Image](examples/gui.png)
 
 ---
 ## 📋 Table of Contents
 
 - [🖌️ Pixelate](#️-pixelate)
-      - [Author](#author)
   - [📋 Table of Contents](#-table-of-contents)
   - [⏩ Installation](#-installation)
       - [Option 1](#option-1)
