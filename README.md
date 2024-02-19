@@ -5,11 +5,13 @@ This application is a magical wizard of Pixel Art! Load your photo and then get 
 
 Author: _Jakub Stolarczyk_
 
+![Image](examples/gui.png)
+
 ---
 ## 📋 Table of Contents
 
 - [🖌️ Pixelate](#️-pixelate)
-        - [Author](#author)
+      - [Author](#author)
   - [📋 Table of Contents](#-table-of-contents)
   - [⏩ Installation](#-installation)
       - [Option 1](#option-1)
